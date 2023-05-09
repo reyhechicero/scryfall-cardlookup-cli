@@ -2,6 +2,7 @@
 CLI Magic: the Gathering card lookup 
 
 Dependencies:
+
 Scrython
 
 # Installation
